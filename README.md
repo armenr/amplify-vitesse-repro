@@ -8,8 +8,12 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 
 <p align='center'>
 This repo demonstrates a reproducible and WORKING vite + vue3 + amplify-ui components implementation
+</p>
 
+<p>
 See this issue & thread for all details: https://github.com/aws-amplify/amplify-js/issues/7499#issuecomment-890594870
+  
+SSG builds are currently being investigated, and will be fixed as well!!
 </p>
 
 <br>
